@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7187","User can add product to cart and complete checkout","chrome","Sun Aug 31 14:22:30 EEST 2025","passed","Sun Aug 31 14:22:37 EEST 2025","SauceDemo E2E Tests","e2eCartCheckout.spec.js","",""
+"","5141","Verify Add to Cart button text changes after click","chrome","Sun Aug 31 14:22:39 EEST 2025","passed","Sun Aug 31 14:22:44 EEST 2025","SauceDemo E2E Tests","e2eCartCheckout.spec.js","",""
+"","5467","Login with valid credentials","chrome","Sun Aug 31 14:22:30 EEST 2025","passed","Sun Aug 31 14:22:35 EEST 2025","SauceDemo Login Tests","Login.spec.js","",""
+"","2960","Login With Locked Out User","chrome","Sun Aug 31 14:22:37 EEST 2025","passed","Sun Aug 31 14:22:40 EEST 2025","SauceDemo Login Tests","Login.spec.js","",""
+"","3477","Enter valid username with empty password","chrome","Sun Aug 31 14:22:40 EEST 2025","passed","Sun Aug 31 14:22:44 EEST 2025","SauceDemo Login Tests","Login.spec.js","",""
